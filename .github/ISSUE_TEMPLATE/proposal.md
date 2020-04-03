@@ -1,7 +1,7 @@
 ---
 name: Proposal
 about: Suggest an idea for this project
-title: "[PROPOSAL] Put your title here"
+title: Put your title here
 labels: proposal
 assignees: ''
 
